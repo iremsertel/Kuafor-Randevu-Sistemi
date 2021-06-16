@@ -1,0 +1,62 @@
+body{
+        
+    background: url(resim1.jpg);
+}
+
+h1{
+    width: 500px;
+    padding: 10px;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 70px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #eea2dbdc; 
+    text-shadow: 2px 2px 1px #000;
+    box-shadow: 1px 8px 6px rgb(223, 20, 213);
+}
+
+h2{
+    font-family:cursive;
+    font-size: 30px;   
+
+}
+
+h3{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    margin-top: 5%;
+
+
+}
+.form{
+    width: 400px;
+    padding: 10px;
+    border: 4px solid  rgb(250, 243, 243);
+    margin: auto;
+    margin-top: 150px;
+    text-align: center;
+    border-radius: 25px;
+    background-color: #ccc5ccd0; 
+    font-weight: bold;  
+    color:purple;
+   
+
+}
+
+.form input {
+    padding: 10px;
+    width: 200px;
+    margin-top: 10px;
+    border-radius : 30px;
+    font-style: italic; 
+    background-color: #9e41ebd2;
+    font-weight: bold;
+    color:white;
+}
+
+.buton{
+    background-color:#800000;
+    color :#fff;
+    font-style: normal;
+}
