@@ -31,6 +31,7 @@ Kullanıcıadı: admin
 <https://github.com/iremsertel/Kuafor-Randevu-Sistemi/blob/main/kuafor.sql>
 
 `Tablo Yapısı:`
+
 ![TabloYapısı](https://github.com/iremsertel/Kuafor-Randevu-Sistemi/blob/main/resimler/Tablo.PNG)
 
 ## Ekran Görüntüleri Ve Yapılabilen İşlemler
