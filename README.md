@@ -46,9 +46,11 @@ Diğer işlem sayfalarındayken buraya tıklayarak Anasayfa'ya ulaşım sağlaya
 ![AnasayfaBaglanti](https://github.com/iremsertel/Kuafor-Randevu-Sistemi/blob/main/resimler/BaglantiAnasayfa.PNG)
 
 `Admin Ekle:`
+Bu bölümde sisteme erişebilecek kişiler için kullanıcı adı ve şifre oluşturulur ve sisteme admin eklenmiş olur.
 ![AdminEkle](https://github.com/iremsertel/Kuafor-Randevu-Sistemi/blob/main/resimler/Adminekle.PNG)
 
 `Müsteri Randevu Gir:`
+İstenilen randevu bilgileri girilerek müşteriler için randevu alımı sağlanmış olur.
 ![MüsteriRandevuGir](https://github.com/iremsertel/Kuafor-Randevu-Sistemi/blob/main/resimler/Randevugir.PNG)
 
 `Randevu Bilgileri:`
